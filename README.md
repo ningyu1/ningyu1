@@ -15,4 +15,4 @@ Hi, 大家好，我是凝雨，喜欢编程，跟随内心不迷路。
 
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ningyu1&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" alt="ningyu1" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ningyu1&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" alt="ningyu1" />
