@@ -6,9 +6,8 @@ Hi, I am Yun, I like to programming and follow my heart without getting lost.
 
 Hi, 大家好，我是凝雨，喜欢编程，跟随内心不迷路。
 
-- [My blog](https://ningyu1.github.io)
-- Email： ningbe111@163.com, ningbe111@gmail.com
-- 座右铭（不知道怎么翻译成英文，就这样吧）
+- :memo: [My blog](https://ningyu1.github.io)
+- 🌸 座右铭（不知道怎么翻译成英文，就这样吧）
   - 十年饮冰，难凉热血
   - 心无杂念，快乐编程
   - 世界和平，Keep Real
