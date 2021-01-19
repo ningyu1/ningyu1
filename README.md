@@ -4,7 +4,7 @@
 
 Hi, I am Yun, I like to programming and follow my heart without getting lost.
 
-Hi, 大家好，我是凝雨，喜欢编程，跟随内心不迷路。
+Hi, 大家好，我是凝雨，喜欢编程跟随内心不迷路。
 
 - :memo: [My blog](https://ningyu1.github.io)
 - 🌸 座右铭（不知道怎么翻译成英文，就这样吧）
