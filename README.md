@@ -13,5 +13,3 @@ Hi, 大家好，我是凝雨，喜欢编程跟随内心不迷路。
   - 世界和平，Keep Real
 
 🤫👉[科学上网](https://hideu.app/?f=dn613)，嘘一般人我不告诉他。
-
-<img alt="t" src="javascript:alert('Uh oh...')" />
