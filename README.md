@@ -1,8 +1,13 @@
+<p>
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:ningyu1.readme"></a>
+  <img src="https://weather-icon.journeyad.repl.co/@shanghai?v=1" align="right">
+</p>
+
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <img align="right" alt="GIF" src="https://github.com/ningyu1/ningyu1/blob/main/images/plus.gif?raw=true" width="500" height="220" />
 
-Hi, I am Yun, I like to programming and follow my heart without getting lost.
+Hi, I'm Yun, I like to programming and follow my heart without getting lost.
 
 Hi, 大家好，我是凝雨，喜欢编程跟随内心不迷路。
 
