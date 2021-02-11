@@ -2,7 +2,6 @@
   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:ningyu1.readme" alt=":ningyu1.readme"></a>
   <div style="display:table-cell; vertical-align:middle;">
     <img src="https://weather-icon.journeyad.repl.co/@shanghai?v=1" align="right">
-    <div align="right">Shanghai</div>
   </div>
 </div>
 
