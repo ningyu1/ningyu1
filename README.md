@@ -1,9 +1,7 @@
 <p width="500">
   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:ningyu1.readme" alt=":ningyu1.readme"></a>
-  <div style="text-align: right;float: right;">
-    <img src="https://weather-icon.journeyad.repl.co/@shanghai?v=1">
-    <div>Shanghai</div>
-  </div>
+  <img src="https://weather-icon.journeyad.repl.co/@shanghai?v=1" align="right">
+  <div align="right">Shanghai</div>
 </p>
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
