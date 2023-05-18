@@ -17,4 +17,4 @@ Hi, 大家好，我是凝雨，喜欢编程跟随内心不迷路。
   - 心无杂念，快乐编程
   - 世界和平，Keep Real
 
-🤫👉[科学上网](https://hidcdn.com/?f=dn613)，嘘一般人我不告诉他。
+🤫👉[科学上网](https://p.tgfish.buzz/#/register?code=qn7nOwdj)，嘘一般人我不告诉他。
