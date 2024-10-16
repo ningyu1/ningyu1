@@ -11,10 +11,10 @@ Hi, I'm Yun, I like to programming and follow my heart without getting lost.
 
 Hi, 大家好，我是凝雨，喜欢编程跟随内心不迷路。
 
-- :memo: [My blog](https://ningyu1.github.io){:target="_blank"}
+- :memo: [My blog](https://ningyu1.github.io)
 - 🌸 座右铭
   - 十年饮冰，难凉热血
   - 心无杂念，快乐编程
   - 世界和平，Keep Real
 
-🤫👉[科学上网](https://get3.okk.dog/?path=register&code=qn7nOwdj){:target="_blank"}，嘘一般人我不告诉他。
+🤫👉[科学上网](https://get3.okk.dog/?path=register&code=qn7nOwdj)，嘘一般人我不告诉他。
