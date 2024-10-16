@@ -1,6 +1,6 @@
 <p width="500">
   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:ningyu1.readme?theme=moebooru-h" alt=":ningyu1.readme"></a>
-  <img src="https://weather-icon.journeyad.repl.co/@shanghai?v=1" align="right">
+<!--   <img src="https://weather-icon.journeyad.repl.co/@shanghai?v=1" align="right"> -->
 </p>
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
